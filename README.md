@@ -1,5 +1,5 @@
 # 💫 About Me:
-Quality Assurance Engineer in Training | TripleTen Bootcamp 2025<br>Currently developing expertise in: • Manual & Automated Testing • API Testing & Validation • Cross-browser & Responsive Testing • Test Documentation & Bug Reporting • Python, Selenium, Postman, JIRA<br>Building a comprehensive QA portfolio with real-world projects
+Quality Assurance Engineer in Training | TripleTen Bootcamp 2025<br>Currently developing expertise in: • Manual & Automated Testing • API Testing & Validation • Cross-browser & Responsive Testing • Test Documentation & Bug Reporting •  Postman, JIRA<br>Building a comprehensive QA portfolio with real-world projects
 
 
 ## 🌐 Socials:
